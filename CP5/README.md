@@ -32,3 +32,6 @@ Observações: O guloso parece ótimo, mas erra em alguns sistemas de moedas
 ### Integrantes
 - Heloísa Real  | RM554535
 - Mariana Neugebauer Dourado | RM550494
+
+### Repositório Exercício
+[Repositório Exercício](https://github.com/mmamorim/dynprog-2025-2/blob/main/CP05-Enunciado.md)
